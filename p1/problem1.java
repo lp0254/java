@@ -1,0 +1,1 @@
+public class problem1{      public static void main(String[] args)      {      String name="Loksubhash Pulivarthi";      int age=19;      double annualPay=100000;            System.out.print("My name is "+name+", my age is "                        +age+ " and\n I hope to earn $"+ annualPay                              + " per year." );                    }}
